@@ -1,6 +1,5 @@
 ## Dragon news 
-
-# This is a news application. Implement by firebase authentication system. It is a font end application using react.js.
+This is a news application. Implement by firebase authentication system. It is a font end application using react.js.
 
 ## Futures 
 1. Firebase authentication system.
